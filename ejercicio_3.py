@@ -4,3 +4,5 @@
 # Creacion de variable con cadena de texto.
 cad_texto_1 = 'cadena de texto'
 print(cad_texto_1, type(cad_texto_1))
+cad_texto_1 = 'se modificio el texto'
+print(cad_texto_1)
